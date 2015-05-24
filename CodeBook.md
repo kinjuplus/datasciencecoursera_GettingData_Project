@@ -2,7 +2,7 @@
 ### The data set on this work is originated from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 ###result.txt contains following variables:
 ###activity
-#### activity label which could be:
+#### activity label could be:
 #####1 WALKING
 #####2 WALKING_UPSTAIRS
 #####3 WALKING_DOWNSTAIRS
