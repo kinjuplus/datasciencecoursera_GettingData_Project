@@ -1,5 +1,6 @@
 #A data dictionary on result.txt output by run_analysis.R
 ### The data set on this work is originated from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+###result.txt contains following variables:
 ###activity
 #### activity label which could be:
 #####1 WALKING
